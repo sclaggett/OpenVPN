@@ -1,2 +1,5 @@
+# Enable packet filter
 pf=YES
+
+# Enable DHCP server
 dhcpd_flags=""
